@@ -1,0 +1,12 @@
+.idea
+._*
+.DS_Store
+RPMS
+SRPMS
+DEPS
+BUILD
+BUILDROOT
+*.swp
+SOURCES/git-*.sign
+SOURCES/git-*.xz
+SOURCES/*.gpg

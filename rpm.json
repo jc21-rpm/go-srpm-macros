@@ -1,0 +1,7 @@
+{
+  "publish": {
+    "PACKAGE": "go-srpm-macros",
+    "GH_USER": "jc21-rpm",
+    "VERSION": "2.20"
+  }
+}
